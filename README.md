@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**NoahVandy/NoahVandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My full name is **Noah Vandervelden** but I usually shorten it to Vandy so it's easier for people to remember 🤷
 
-Here are some ideas to get you started:
+# About me
+- I have a passion for creating UI/UX driven apps
+- I'm currently working on finishing my bachelor's at Grand Canyon University
+- I love working with others who share the same passions as me
+- Ask me anything about React.js, Express.js, REST APIs, SQL or NoSQL Database's
+- How to reach me: noah.vandy@gmail.com or https://www.linkedin.com/in/noahvandy/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Project Showcase
+- CollegeTrade - is my Senior Capstone. It is a virtual marketplace for students at Grand Canyon University to buy, sell, and trade things safely between other students. You need to have a GCU issued email in order to sign up and view listings other students have posted. Students can also set up different shops that contain specific types of listings they choose. This specific project uses the **MERN Stack** all hosted on **AWS**.
+- CollegeTradeMobil - is an extention of my Senior Captsone. It uses the same API and Database, but uses **React-Native** as the front end, throwing me into the world of iOS/ Andriod development
+- [TRP Productions](https://www.trp.productions) - a simple HTML website that I created for a friend's photography business.
