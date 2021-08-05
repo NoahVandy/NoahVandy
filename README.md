@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My full name is **Noah Vandervelden** but I usually shorten it to Vandy so it's easier for people to remember 🤷
-
 # About me
-I am current a student at Grand Canyon University studying software development. This degree focuses not only on the coding aspect of development, but the design and agile components as well. Over the course of my college career, I have learned OOP through Java, C#, and PHP. Along with those languages, I have learned Java Spring, .NET MVC, and Laravel. I was taught design principles like UML class diagrams, system design, flowcharts, etc... 
+My full name is **Noah Vandervelden** but I usually shorten it to Vandy so it's easier for people to remember 🤷. I am current a student at Grand Canyon University studying software development. This degree focuses not only on the coding aspect of development, but the design and agile components as well. Over the course of my college career, I have learned OOP through Java, C#, and PHP. Along with those languages, I have learned Java Spring, .NET MVC, and Laravel. I was taught design principles like UML class diagrams, system design, flowcharts, etc... 
 
 I've had two Software Engineering internships. One was at a startup called Simplifyy, and the other was at a Forutne 500 company called Cerner. In these internships I learned how to communicate with a development team, how to participate in agile ceremonies, and contribute clean and effective code. Through Simplifyy I was taught React.js and Express.js, while at Cerner I was taught Ruby and Rails.
 
