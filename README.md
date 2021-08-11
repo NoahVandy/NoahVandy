@@ -13,11 +13,13 @@ I love working with apps / websites that have a focus for UI/UX, codebases that 
 - C#
 - PHP
 - Ruby
+- CSS
 
 ## Technologies
+- React.js
+- Next.js
 - Node.js
 - MongoDb
-- React.js
 - React-native
 - Java Spring
 - .NET MVC
