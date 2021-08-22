@@ -7,15 +7,15 @@ I've had two Software Engineering internships. One was at a startup called Simpl
 
 I love working with apps / websites that have a focus for UI/UX, codebases that have well practiced coding principles, and modern technologies that can bring creative ideas to life.
 
-## Languages
+## Languages (in order from most known to least known)
 - Javascript and TypeScript
 - Java
 - C#
+- HTML/CSS
 - PHP
 - Ruby
-- CSS
 
-## Technologies
+## Technologies (in order from most known to least known)
 - React.js
 - Next.js
 - Node.js
